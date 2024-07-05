@@ -1,2 +1,2 @@
 # pacman-clone
-a multiplayer version of pacman in racket.
+A multiplayer version of the popular game pacman written in Dr Racket.
